@@ -33,6 +33,14 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="z3998:article"] header{
+	text-align: center;
+}
+
+[epub|type~="z3998:article"] .main-heading{
+	font-size: 2em;
+}
+
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
