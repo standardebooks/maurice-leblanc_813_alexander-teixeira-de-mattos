@@ -1,15 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 time{
 	font-style: italic;
 }
@@ -20,7 +11,6 @@ time{
 
 blockquote header{
 	margin-bottom: 1em;
-	text-align: center;
 }
 
 footer{
@@ -31,10 +21,6 @@ footer{
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
-}
-
-[epub|type~="z3998:article"] header{
-	text-align: center;
 }
 
 [epub|type~="z3998:article"] .main-heading{
