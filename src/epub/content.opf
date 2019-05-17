@@ -26,22 +26,22 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">813</dc:title>
 		<meta property="file-as" refines="#title">813</meta>
 		<dc:subject id="subject-1">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/34758</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/34758</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2009117895</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010100204</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<dc:description id="description">The gentleman-thief returns only to face his most dangerous opponent yet.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When Arsène Lupin disappeared at the end of &lt;i&gt;The Hollow Needle&lt;/i&gt; the public and police assumed he was dead; but it turns out he was just biding his time and waiting for the right opponent to face off against. Luckily, a secret involving a stash of hidden papers and Europe’s aristocratic families is more than enough to pique the interests of Lupin and his unknown competitor. This novel is told more from Lupin’s point of view than the previous stories, and that reduces some of the omnipotence bestowed upon him by Leblanc while highlighting his more emotional qualities.&lt;/p&gt;
 			&lt;p&gt;Originally serialized in &lt;i&gt;Le Journal&lt;/i&gt;, &lt;i&gt;813&lt;/i&gt; was published in novel form in 1910. At more than 500 pages, it was deemed a little heavy and was subsequently split into two volumes in 1917 along with slight editing to increase the timely anti-German sentiment. Presented here is the 1910 English translation.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34758</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100405910</dc:source>
