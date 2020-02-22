@@ -23,7 +23,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-[epub|type~="z3998:article"] .main-heading{
+#chapter-10 blockquote:nth-last-of-type(3) p{
 	font-size: 2em;
 }
 
