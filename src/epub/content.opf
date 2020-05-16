@@ -37,7 +37,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010100204</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta property="se:collection">Arsène Lupin</meta>
+		<meta property="belongs-to-collection" id="collection-1">Arsène Lupin</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">The gentleman-thief returns only to face his most dangerous opponent yet.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When Arsène Lupin disappeared at the end of &lt;i&gt;The Hollow Needle&lt;/i&gt; the public and police assumed he was dead; but it turns out he was just biding his time and waiting for the right opponent to face off against. Luckily, a secret involving a stash of hidden papers and Europe’s aristocratic families is more than enough to pique the interests of Lupin and his unknown competitor. This novel is told more from Lupin’s point of view than the previous stories, and that reduces some of the omnipotence bestowed upon him by Leblanc while highlighting his more emotional qualities.&lt;/p&gt;
