@@ -52,7 +52,6 @@
 		<meta property="se:production-notes">The linter is currently choking on chapter 9’s subtitle due to regex limitations.</meta>
 		<meta property="se:word-count">109083</meta>
 		<meta property="se:reading-ease.flesch">76.11</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/813</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_813_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
 		<meta property="file-as" refines="#author">Leblanc, Maurice</meta>
