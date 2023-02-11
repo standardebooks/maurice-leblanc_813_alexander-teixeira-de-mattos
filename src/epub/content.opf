@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34758</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100405910</dc:source>
-		<meta property="se:production-notes">The linter is currently choking on chapter 9’s subtitle due to regex limitations.</meta>
+		<meta property="se:production-notes">The linter is currently choking on chapter 9’s subtitle due to regex limitations. "Holmlock Shears" has been changed to "Herlock Sholmes" to match other books in the Lupin series. However, the name of Lupin's dog has been preserved as "Sherlock" as a meta-reference by Leblanc rather than a direct reference to Lupin's rival.</meta>
 		<meta property="se:word-count">109083</meta>
 		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_813_alexander-teixeira-de-mattos</meta>
