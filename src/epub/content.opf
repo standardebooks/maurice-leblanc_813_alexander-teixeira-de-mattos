@@ -39,6 +39,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">The gentleman-thief returns only to face his most dangerous opponent yet.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; disappeared at the end of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/the-hollow-needle/alexander-teixeira-de-mattos"&gt;&lt;i&gt;The Hollow Needle&lt;/i&gt;&lt;/a&gt; the public and police assumed he was dead; but it turns out he was just biding his time and waiting for the right opponent to face off against. Luckily, a secret involving a stash of hidden papers and Europe’s aristocratic families is more than enough to pique the interests of Lupin and his unknown competitor. This novel is told more from Lupin’s point of view than the previous stories, and that reduces some of the omnipotence bestowed upon him by &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Leblanc&lt;/a&gt; while highlighting his more emotional qualities.&lt;/p&gt;
