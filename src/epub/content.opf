@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">813</dc:title>
 		<meta property="file-as" refines="#title">813</meta>
-		<meta property="dcterms:alternate" refines="#title">Eight One Three</meta>
+		<meta property="dcterms:alternative" refines="#title">Eight One Three</meta>
 		<dc:subject id="subject-1">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
