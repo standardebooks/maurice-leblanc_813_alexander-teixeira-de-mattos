@@ -1,0 +1,1 @@
+The linter is currently choking on chapter 9’s subtitle due to regex limitations. "Holmlock Shears" has been changed to "Herlock Sholmes" to match other books in the Lupin series. However, the name of Lupin's dog has been preserved as "Sherlock" as a meta-reference by Leblanc rather than a direct reference to Lupin's rival.
